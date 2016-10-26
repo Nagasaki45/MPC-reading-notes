@@ -152,13 +152,13 @@ The results correlates with the expectations from theory.
 
 ### Criticism
 
-The conclusions from experiment 2 are way too general compared to the results the got. I can only guess that they couldn't find a significant meaning in the results.
+The conclusions from experiment 2 are way too general compared to the results they've got. I can only guess that they couldn't find a significant meaning in the results.
 
 ## Drake & Palmer 1993
 
 **Accent Structures in Music Performance**
 
-Three types of accents: rhythmic grouping, melodic, and metric. The study checks how pianists use intensity, inter-onset timing, and articulation (offset to onset timing), to emphasize each type of accents when different accept types happen simultaneously / contradict with each other.
+Three types of accents: rhythmic grouping, melodic, and metric (different accent types from the 3 Lerdahl & Jackendoff 1984 suggested). The study checks how pianists use intensity, inter-onset timing, and articulation (time between offset and onset), to emphasize each type of accents when different accept types happen simultaneously / contradict with each other.
 
 ![Drake & Palmer 1993 - accent types](media/drake1993_accents.png)
 
@@ -181,9 +181,30 @@ Same as experiment 1, but with scores that combine the different accent types. T
 
 Same as before, but now with real musical material as stimuli (Beethoven sonata). Confirms the previous results.
 
-## Jones et al. 2002 _TODO_
+## Jones et al. 2002
 
 **Temporal Aspects of Stimulus-Driven Attending in Dynamic Arrays**
+
+### Experiment 1
+
+**Independent variables:**
+
+- "Critical IOI" can be very short, short, expected, long, or very long (see figure).
+- Pitch of "comparison" note can be the same as the "standard" note, higher or lower in 1 semitone.
+
+Note that there were more independent variables, but their effect is minor.
+
+**Dependent variable:** is the comparison note same as standard note, lower or higher.
+
+![Jones et al. 2002](media/jones2002.png)
+
+### Experiment 2
+
+Same as experiment 1, but doubling the length of the critical IOI. Same results.
+
+### Experiment 3
+
+Same as experiment 2, but interpolated / distractor tones had irregular timing. For late comparison tones the percentage correct remain as high as for expected timing (which is relatively ambiguous).
 
 ## Patel et al. 2005
 
@@ -247,13 +268,47 @@ Same as experiment 1, after two weeks exposure to Balkan non-isochronous music (
 
 ![Hannon et al. 2005](media/hannon2005b.png)
 
-## Fitch & Rosenfeld 2007 _TODO_
+## Fitch & Rosenfeld 2007
 
 **Perception and production of syncopated rhythms**
 
-## Iversen et al. 2008 _TODO_
+3 experiments that together show that:
+
+- It is easier to tap to beat with simple rhythms.
+- When the rhythm is complex there is a "reseting" of the beat to the off-beat.
+- Participants remember simple rhythms better (see criticism).
+
+### Criticism
+
+There is no chance that the 3rd part of the experiment (rhythm recognition) really worked. It doesn't seems reasonable to ask if a rhythm occurred in a set of 30 previously heard rhythms. There most be a bias toward simple rhythms that result in the authors conclusions.
+
+I see no contribution of this paper except cognitive confirmation the Longuet-Higgins & Lee syncopation rating algorithm.
+
+## Iversen et al. 2008
 
 **Perception of rhythmic grouping depends on auditory experience**
+
+Shows that perception of long-short grouping have cultural dependencies.
+
+### Experiment
+
+#### Type A
+
+**Independent variable:** sequence of notes with amplitude difference (ratios can be 1.5 or 2).
+**Dependent variable:** participants perceived the sequence as "loud-soft" or "soft-loud".
+
+No significant difference between English and Japanese speakers
+
+#### Type B
+
+This is almost the same, parameters changed.
+
+**Independent variable:** sequence of notes with duration difference (ratios can be 1.25, 1.75, or 2).
+**Dependent variable:** participants perceived the sequence as "short-long" or "long-short".
+
+English speakers percept the sequences as "short-long" (known from previous literature). Japanese speakers had no preference as a group. Individuals, however, had strong preference.
+
+![Iversen et al. 2008](media/iversen2008.png)
 
 ## Repp 2010
 
@@ -337,7 +392,7 @@ Anthropometric factor contribute about 16% of the variability in preferred tempo
 
 ### Criticism
 
-Too much mathematical mambo-jambo. Why does this "preferred beat rate" relate to "preferred tempo"? It is the preferred tempo specifically for JGB.
+Too much mathematical mambo-jambo. Everything seems to be correct, but they could arrive to the same results in a simpler manner.
 
 ## Dahl & Huron 2007
 
