@@ -5,7 +5,7 @@ author: Tom Gurion
 
 # Reviews
 
-## Honing 2002
+## Honing 2002 _Wrong Honing paper. See the reading list_
 
 **Structure and Interpretation of Rhythm and Timing**
 
@@ -35,10 +35,10 @@ Analysis of piano performances, comparing the score's "perfect" IOIs to those of
 
 ### Conclusions
 
-2 components model
-
-- Structural: discrete categorization of intervals.
-- Expressive: continuously varied transformations of IOIs over time.
+- High consistency between performances
+- 2 components model:
+    - Structural: discrete categorization of intervals.
+    - Expressive: continuously varied transformations of IOIs over time.
 
 # Metre
 
