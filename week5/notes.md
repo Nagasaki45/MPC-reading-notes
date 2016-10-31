@@ -113,17 +113,86 @@ Best abstract ever!
 
 Check experiment 2 validity and conclusions.
 
-## Bergman & Pinker 1978 _TODO_
+## Bergman & Pinker 1978
 
 **Auditory streaming and the building of timbre**
 
-## Demany 1982 _TODO_
+All experiments follow similar manipulations of the stimuli, as suggested by the figure below. Variables include the frequency of note A, the frequency of note C, and the onset synchronization of B and C. Note B frequency is 527Hz in experiments 1 & 2, 600Hz in experiments 3 & 4.
+
+![Bergman & Pinker 1978](media/bergman1978.png)
+
+### Experiment 1
+
+**Independent variables:**
+
+- Frequency of note A.
+- B-C asynchrony.
+
+**Dependent variable:** richness of lowest tone.
+
+### Experiment 2
+
+**Independent variables:** same as in experiment 1.
+**Dependent variable:** Doe's A and B stream together.
+
+### Experiment 3
+
+**Independent variables:**
+
+- Frequency of note A (2 or 10.7 semitones above B).
+- Synchronization between B and C (in sync or out of sync).
+- Gross interval size between B and C.
+- Harmonicity between B and C (consonant or dissonant).
+
+**Dependent variable:** Doe's A and B stream together.
+
+Surprisingly, the only significant effect is note A frequency.
+
+### Experiment 4
+
+**Independent variables:** same as in experiment 3.
+**Dependent variable:** richness of lowest tone (same as in experiment 1).
+
+Results support the results of experiment 1. Main effects are B-C synchronicity, A frequency, and the interaction of them.
+
+### Criticism
+
+It seems very unlikely that segregation is not dependent on harmonicity. Everywhere else authors claim that harmonicity of sources are crucial for us to separate sources successfully.
+
+## Demany 1982
 
 **Auditory stream segregation in infancy**
 
-## Iverson 1995 _TODO_
+### Experiment 1 - adults
+
+Judging if a pair of sequences is same or different. Pair of sequences differ by note order. If the note order was changed across streams there is no way to tell the difference.
+
+### Experiment 2 - 7-15-week-old infants
+
+Same as experiment 1 (same stimuli, habituation / dishabituation paradigm). Results similar to the results of experiment 1.
+
+## Iverson 1995
 
 **Auditory stream segregation by musical timbre: effects of static and dynamic acoustic attributes**
+
+### Experiment 1
+
+**Independent variables:**
+
+- Physically isochronous spacing (the physical onsets of the notes are equally spaced), or perceptually isochronous spacing (the perceptual onsets of the notes are equally spaced).
+- 6 seconds sequences of two orchestral tones (out of a set of 16 tones), interleaved, each tone of 150 milliseconds.
+
+**Dependent variable:** ability to separate the tones into 2 stream.
+
+The results were analysed with multi dimensional scaling (MDS) technique to 2 dimensions. In both cases (physically and perceptually spacing) the two axes found to correlate to attack time and spectral centroid.
+
+![Iverson 1995 - experiment 1](media/iverson1995_exp1.png)
+
+### Experiment 2
+
+Introducing pitch manipulations to test the effect of streaming by timbre when the pitch vary. Results suggest that PAT (perceptual attack time) affects streaming even when pitch varies.
+
+![Iverson 1995 - experiment 2](media/iverson1995_exp2.png)
 
 # Sequential Grouping Perception
 
