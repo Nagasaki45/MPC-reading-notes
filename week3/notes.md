@@ -1,6 +1,11 @@
-# Timbre
+---
+title: Week 4 - timbre
+author: Tom Gurion
+---
 
-## A subjective rating scale for timbre (Pratt & Doak, 1976)
+## Pratt & Doak 1976
+
+**A subjective rating scale for timbre**
 
 Suggested subjective 3 dimensional rating scale for timbre: Dull/Brilliant, Cold/Warm, Pure/Rich.
 
@@ -20,7 +25,9 @@ Suggested subjective 3 dimensional rating scale for timbre: Dull/Brilliant, Cold
 
 On experiment 1, only the "combination of all three" column was used, although it is the most vague. The word "Nasal" was chosen to describe woodwind instruments more than any other word, for any other family(!) but it was ignored -> too biased.
 
-## Multidimensional perceptual scaling of musical timbres (Grey, 1977)
+## Grey 1977
+
+**Multidimensional perceptual scaling of musical timbres**
 
 Suggested three dimensional scale for timbre, were each axis was interpreted from the result of multidimensional scaling technique and hierarchic clustering analysis of similarity between instrument pairs.
 
@@ -34,7 +41,7 @@ Two techniques were used to transform the data:
 - Dimensionality reduction to 3 dimensions. These were later interpreted to be "spectral energy distribution", "spectral flux", and "presence of high-freq low-amplitude often in-harmonic energy".
 - Hierarchic clustering.
 
-![(Grey, 1977)](grey1977_3d_map.png)
+![(Grey, 1977)](media/grey1977_3d_map.png)
 
 ### Experiment 2
 
@@ -48,9 +55,13 @@ Producing confusion matrix and comparing it to the experiment 1 results.
 On experiment 1 no measurement / experiment was done to explain the interpretations of the axes, only qualitative observations.
 Generally, the first 2 points of criticism for McAdams.
 
-## Timbre Space as a Musical Control Structure (Wessel, 1979)
+## Wessel 1979 _Didn't read, but it's important! TODO_
 
-## Imagery for musical timbre (Crowder, 1989)
+**Timbre Space as a Musical Control Structure**
+
+## Crowder 1989
+
+**Imagery for musical timbre**
 
 It's easy to acknowledge that two tones have the same pitch when they are played on the same instrument, but harder when played on different instruments, even if one of the instrument timbres is imaginary. This doesn't apply for different pitches (the task is not simpler when the timbre is consistent).
 
@@ -63,7 +74,7 @@ It's easy to acknowledge that two tones have the same pitch when they are played
 
 **Dependent variable:** reaction time (reporting same pitch or different pitch).
 
-![(Crowder, 1989)](crowder1989_exp1.png)
+![(Crowder, 1989)](media/crowder1989_exp1.png)
 
 For same pitch trails, change in timbre caused higher reaction times -> the task was harder.
 
@@ -71,7 +82,7 @@ For same pitch trails, change in timbre caused higher reaction times -> the task
 
 Independent and dependent variables are almost the same. Instead of playing pairs of instrument tones, a sinusoid tone was played. Then, participants were asked to imagine that tone by a specific instrument. Finally, the 2nd tone by same / different instrument with same / different pitch was played.
 
-![(Crowder, 1989)](crowder1989_exp2.png)
+![(Crowder, 1989)](media/crowder1989_exp2.png)
 
 High interaction between pitch and timbre: for same pitch different imaginary timbre made the task harder, but for different pitches different imaginary timbre made the task easier. This is only partly consistent with experiment 1.
 
@@ -90,13 +101,17 @@ Main claim: timbre perception is generally based spectral properties.
 
 I can't see how the method support the claim. The fact that spectral consistency (or imaginary spectral consistency) made the task of distinguishing pitch easier doesn't support this claim.
 
-## Verbal Attributes of Simultaneous Wind Instrument Timbres (Kendall & Carterette, 1993)
+## Kendall & Carterette 1993 _Didn't read_
+
+**Verbal Attributes of Simultaneous Wind Instrument Timbres**
 
 ### 1. von Bismarck Adjectives
 
 ### 2. Adjectives Induced from Piston's "Orchestration"
 
-## Perceptual scaling of synthesized musical timbres: Common dimensions, specificities, and latent subject classes (McAdams et al., 1995)
+## McAdams et al. 1995
+
+**Perceptual scaling of synthesized musical timbres: Common dimensions, specificities, and latent subject classes**
 
 Suggesting 3 dimensional space for timbre perception with axes for "attack time", "spectral centroid", and "spectral flux".
 
@@ -114,7 +129,9 @@ Later, the authors found correlations between axes and the spectral properties o
 - Almost arbitrary choice for the number of dimensions - why not 2? the authors struggle with reasoning and explaining the 3rd dimension anyway.
 - Arbitrary choice of sound qualities that were compared / fitted to each axis.
 
-## Name that tune: Identifying popular recordings from brief excerpts (Schellenberg et al., 1999)
+## Schellenberg et al. 1999
+
+**Name that tune: Identifying popular recordings from brief excerpts**
 
 Identifying popular songs by 100ms experts can be done when: high frequency content is preserved and no dynamic manipulations done. Thereby, these are the most important parts of timbre perception.
 
@@ -125,11 +142,13 @@ Actually, it's 5 different experiments, one for each type of stimuli.
 **Independent variable:** 5 short audio experts from popular songs.
 **Dependent variable:** ability to match the expert to the song.
 
-![Schellenberg, 1999](schellenberg1999.png)
+![Schellenberg, 1999](media/schellenberg1999.png)
 
 _The methods look very strange for me. Check again if everything is right._
 
-## Long-term memory for music: Infants remember tempo and timbre (Trainor et al., 2004)
+## Trainor et al. 2004
+
+**Long-term memory for music: Infants remember tempo and timbre**
 
 "...infants' long-trem memory representations for melody contain surface structure information", such as tempo and timbre.
 
@@ -146,13 +165,17 @@ _The methods look very strange for me. Check again if everything is right._
 
 In experiment 1 the novel stimuli attracted the infants, whereas in experiment 2 and 3 it didn't, suggesting that the infants percept timbre and tempo as part of the melody.
 
-![Trainor et al., 2004](trainor2004.png)
+![Trainor et al., 2004](media/trainor2004.png)
 
-## Acoustic correlates of timbre space dimensions: A confirmatory study using synthetic tones (Caclin et al., 2005)
+## Caclin et al. 2005 _Important paper! TODO reread and check results validity_
+
+**Acoustic correlates of timbre space dimensions: A confirmatory study using synthetic tones**
 
 Tries to validate the X dimensional perceptual spaces suggested by dimensional reduction studies by conducting similarity experiments with synthesized sounds that suppose to have known coordinates on the scales.
 
-## Is the Bandwidth for Timbre Invariance Only One Octave? (Steele & Williams, 2006)
+## Steele & Williams 2006
+
+**Is the Bandwidth for Timbre Invariance Only One Octave?**
 
 Timbre invariance is different for musicians and non-musician. For non-musicians it is invariant up to one octave; for musicians for much more (up to 2.5).
 
@@ -170,11 +193,13 @@ Timbre invariance is different for musicians and non-musician. For non-musicians
 
 The results for musicians differ from those of non-musicians. For non-musicians, timbre is invariant up to one octave (AKA: it is easy to tell if two tones by the same instrument when they are in the same octave). This replicates the results of Handel and Erikson (2001).
 
-![Steele & Williams, 2006](steele_and_williams2006.png)
+![Steele & Williams, 2006](media/steele_and_williams2006.png)
 
 _Really simple and straightforward study! very nice._
 
-## The effect of fundamental frequency on the brightness dimension of timbre (Marozeau & de Cheveigné, 2007)
+## Marozeau & de Cheveigné 2007
+
+**The effect of fundamental frequency on the brightness dimension of timbre**
 
 Using multidimensional scaling, dimensions are highly correlated with fundamental frequency. The authors thereby suggest that F0 is crucial part of timbre perception.
 
@@ -191,14 +216,26 @@ Pairs of tones for similarity tests.
 
 Results present high correlation between timbre and pitch.
 
-![Marozeau & de Cheveigné, 2007](marozeau2007.png)
+![Marozeau & de Cheveigné, 2007](media/marozeau2007.png)
 
 ### Criticism
 
 The same phenomena can be explained by Steele & Williams (2006) as timbre invariance and failures to detect timbres when the pitch difference is large. It seems more simple / reasonable explanation for me.
 
-## A Meta-analysis of Timbre Perception Using Nonlinear Extensions to CLASCAL (Burgoyne & McAdams, 2007)
+## Burgoyne & McAdams 2007
+
+**A Meta-analysis of Timbre Perception Using Nonlinear Extensions to CLASCAL**
 
 Applies nonlinear transformation (the isomap) during the dimensionality reduction, and show that the results are still stable: two significant attributes are used to distinguish timbre, log attack time and spectral centroid when. There is also a third dimension, but it's less prominent. No experiment was done. Everything was calculated on past experiments data.
 
-## An Interlanguage Study of Musical Timbre Semantic Dimensions and Their Acoustic Correlates (Zacharakis et al., 2014)
+_There is a good intro to MDS use in timbre perception studies in the introduction._
+
+## Zacharakis et al. 2014
+
+**An Interlanguage Study of Musical Timbre Semantic Dimensions and Their Acoustic Correlates**
+
+2 groups: Greek speaking & English speaking participants. 30 adjectives (in English and translations to Greek). Participants list adjectives for each heard instrument tone.
+
+### Conclusions
+
+Timbre perception is very similar across different cultures.
