@@ -9,12 +9,12 @@ author: Tom Gurion
 
 **Auditory grouping**
 
-- Interaural time-differences (the time difference between two ears), which are crucial in determining audio source location, are less important for stream segregation.
+- Interaural time-differences (the time difference between two ears), which is crucial in determining audio source location, is less important for stream segregation.
 - Pure tones:
-  - Miller & Heise: 15% change in frequency is enough to separate a trill of 100ms notes into 2 streams.
-  - Noorden: extends the work of Miller & Heise; shows that attention control can enforce separation.
-  - Bergman & Campbell: sequences of notes can break into streams depending of pitch difference; impossible to judge the temporal order of notes across streams.
-- Other examples that result in streaming involve complex tones (the Wessel illusion), dynamics (attack duration) and changes in spatial location.
+    - Miller & Heise: 15% change in frequency is enough to separate a trill of 100ms notes into 2 streams.
+    - Noorden: extends the work of Miller & Heise; shows that attention control can enforce separation.
+    - Bergman & Campbell: sequences of notes can break into streams depending of pitch difference; impossible to judge the temporal order of notes across streams.
+- Other examples of streaming involve complex tones (the Wessel illusion), dynamics (attack duration) and changes in spatial location.
 - Deutsch: grouping by fundamental frequency dominates grouping by spatial location.
 - "...Continuity of timbre, pitch, and spatial location are important for maintaining the perceptual integrity of sound source over time" - Gestalt principle.
 
@@ -196,17 +196,79 @@ Introducing pitch manipulations to test the effect of streaming by timbre when t
 
 # Sequential Grouping Perception
 
-## Lerdahl & Jackendoff 1983 _TODO_
+## Lerdahl & Jackendoff 1983
 
 **A Generative Theory of Tonal Music, Chapter 3**
 
-## Deliege 1987 _TODO_
+Similar to their analysis of metre: there are "grouping well-formedness" (GWFRs) and "grouping preference rules" (GPRs). Theory does not apply to polyphonic music.
+
+### GWFRs
+
+1. Any contiguous sequence of pitch-events, drum beats, or the like can constitute a group, and only contiguous sequences can constitute a group.
+1. A piece constitutes a group.
+1. A group may contain smaller groups.
+1. If a group G1 contains part of a group G2, then it must contain all of G2.
+1. If a group G1 contains a smaller group G2 then G1 must be exhaustively partitioned into smaller groups.
+
+### GPRs
+
+1. Strongly avoid small groups.
+1. Proximity: expect a boundary where (a) there is a rest slur break or (b) the inter onset interval increased.
+1. Change: in register, dynamics, articulation or length of notes create boundaries.
+1. Intensification: where GPRs 2 and 3 agree, place a higher level boundary.
+1. Symmetry: prefer grouping that creates groups of equal length.
+1. Parallelism: prefer grouping that creates parallel (similar) groups.
+
+### The problem with GWFR 4
+
+There are several examples against GWFR 4. The authors solution is that in such cases, where there is a note that is shared between two groups, it's the "stronger" more important note masking the other one. With this interpretation, the note doesn't really belong to the two groups, only to one. There is a note that is not heard (it is masked) that was supposed to be part of the other group (see figure).
+
+![Lerdahl & Jackendoff 1983 - the problem with GWFR 4](media/lerdahl1983_gwfr4_problem.png)
+
+### The role of the performer
+
+The performer can affect grouping using GPR 2, 3, and 4. The rest are typically inherent to the composition.
+
+## Deliege 1987
 
 **Grouping conditions in listening to music: An approach to Lerdahl & Jackendoff's grouping preference rules**
 
-## Frankland & Cohen 2004 _TODO_
+### Experiment 1
+
+Participants requested to segment heard musical phrase taken from classical repertoire.
+
+**Independent variables:**
+
+- Level of musicianship: non musician, musician level 1, 2, and 3. Musicians groups are same size, based on knowledge in harmony.
+- Reported segmentation.
+
+**Dependent variable:** reported segmentation comply with the rules.
+
+All groups performed significantly above chance. Musicians performed significantly better than non musicians.
+
+![Deliege 1987 - experiment 1](media/deliege1987_exp1.png)
+
+### Experiment 2
+
+Analysis of preference rules when they conflict. Mostly similar to experiment 1. Stimuli was changed to specially composed sequences presenting conflicts between each pair of preference rules.
+
+![Deliege 1987 - experiment 2](media/deliege1987_exp2.png)
+
+## Frankland & Cohen 2004
 
 **Parsing of Melody: Quantification and Testing of the Local Grouping Rules of Lerdahl and Jackendoff's A Generative Theory of Tonal Music**
+
+Two experiments address the role of Lerdahl & Jackendoff GPRs with familiar and unfamiliar nursery-rhymes and classical tonal melodies. Participants had varied musical experience (independent variable).
+
+### Results
+
+- Musical training affect melody parsing only for unfamiliar tonal music.
+- Only GPRs 2a and 2b (temporal proximity) are significant in parsing of a melody.
+- Minor effect of GPRs 3a (register change) and 3d (length change).
+
+Overall, results doesn't comply with theory.
+
+_Another great abstract!!!_
 
 # Statistical Learning of Grouping Structure
 
