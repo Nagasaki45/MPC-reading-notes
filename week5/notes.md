@@ -301,6 +301,29 @@ All experiments show results very similar to those of learning spoken languages.
 
 _Amazing!_
 
-## Tillmann & McAdams 2004 _TODO_
+## Tillmann & McAdams 2004
 
 **Implicit learning of musical timbre sequences: statistical regularities confronted with acoustical (dis)similarities**
+
+Very similar to Saffran et al. 1999 but with "timbre" based words, instead of pitches. There are also methodological differences. The results support the idea that we have statistical learning of musical words.
+
+### Experiment 1
+
+13 timbres from McAdams et al. 1995 create 18 words of 3 timbres each. Each word belong to one of the following groups: (S1) similar timbre, (S2) different timbre, or (S3) neutral timbre. Participants divided into 2 groups: control and "learning". The learning group listened to 3 x 11 minutes of word sequences. The control group didn't.
+
+**Independent variables:**
+
+- Participant group.
+- Pair of a word and non-word. The variable is the type (S1 / S2 / S3) of the word.
+
+**Dependent variable:** percentage correct of choosing the word over the non-word.
+
+![Tillmann & McAdams 2004](media/tillmann2004.png).
+
+### Experiment 2
+
+Same as experiment 1. Now, instead of words vs. non-words, it's words vs. part-words (see Saffran et al. 1999).
+
+### Criticism
+
+Why S2 is missing from experiment 2?
