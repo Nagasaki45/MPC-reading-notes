@@ -9,19 +9,19 @@ author: Tom Gurion
 
 **Sweet anticipation: Music and the Psychology of Expectation**
 
-### Introduction and the **ITPRA** theory
+### Chapter 1 - Introduction and the **ITPRA** theory
 
 A set of psychological systems build crucial expectations for anticipating the future. The systems are divided into pre-outcome and post-outcome responses.
 
 ![Huron 2006 - ITPRA](media/huron2006_itpra.png)
 
-### Surprise
+### Chapter 2 - Surprise
 
 In absolute surprise only the post-outcome reactions take place. There are no predictions, so there is a punishment for mis-reading the future correctly. The reaction response usually prepare the system for worst case scenario ("boo!"). However, the appraisal response can take different forms, and may be positive. For example, subjects of surprise parties are firstly horrified. After a few seconds, when the appraisal phase starts, they enjoy it.
 
 "Surprise acts as an emotional amplifier". Musical surprises are correlated to the known fight / flight / freeze response from nature. The difference is that the appraisal phase attenuate the fear from the unknown and transform the feeling to frisson / laughter / awe correspondingly.
 
-### Methods for measuring musical expectation
+### Chapter 3 - Methods for measuring musical expectation
 
 1. **Tone detection method**- participants report if they hear a tone. Greenberg & Larkin: low amplitude tone is played in specific pitch and time, masked with white noise. Participants expecting the tone were able to notice it more easily.
 1. **Production method**- e.g. participants sing / play / compose a continuation for an interrupted tune. Disadvantages: requires singing / playing / etc. and sometime improvisation ability. Advantages: study long-term expectations.
@@ -31,6 +31,33 @@ In absolute surprise only the post-outcome reactions take place. There are no pr
 1. **Bradycardic response method**- similar to head turning paradigm with measuring heart rate instead. Like head turning paradigm, "each trial gives comparatively little information, and building a picture of infant expectation may require hundreds of trials from dozens of participants".
 1. **Reaction time method**- "When you hear an expected sound, you will typically be able to process it more quickly and respond to it faster". Advantages: can be used continuously, without interruptions to the music (except from slowing the tempo down to make the task possible), and therefore faster than other methods. Drawbacks compared to probe-tone and betting paradigms: no data collection for all possibilities and no way to tell the exact cause of the reaction time difference.
 1. **Evoked response potential (ERP) and the derived mismatch negativity (MMN)**.
+
+### Chapter 4 - Auditory learning
+
+Auditory expectations are learned, not innate. The main purpose of the chapter is to support this argument.
+
+"Both instincts and learning are the products of biological evolution. From a biological perspective, there is a clear criterion for when it is best for a behavior to be instinctive and when it is best for a behavior to be learned. The critical determining factor is the stability of the environment... An evolved capacity to learn is consequently referred to as **the Baldwin effect**".
+
+**The Hick–Hyman law**- there is a correlation between stimuli frequency and reaction time. AKA "processing of familiar stimuli is faster than processing of unfamiliar stimuli".
+
+See statistical learning references in week's 5 notes.
+
+### Chapter 5 - Statistical properties of music
+
+- "There is a tendency to construct melodies consisting mostly of small pitch movements" (based on repertoire).
+- "Large melodic intervals are more likely to ascend and that small melodic intervals are more likely to descend". Equivalently, because melodies are bounded in pitch "we might simply say that the majority of melodic movements are descending small intervals". This was replicated cross culturally. Similar phenomenon presents in speech.
+- **Descending step inertia**- "small pitch intervals (1 or 2 semitones) tend to be followed by pitches that continue in the same direction".
+- "Large intervals tend to be followed by a change of direction".
+- **Melodic arch**- "a general tendency for phrases to rise upward and then descend in pitch".
+
+### Chapter 6 - Heuristic listening
+
+Recap chapter 5 and present the perceptual equivalents. Simplified **implication-realization theory** suggests that two rules have the most predictive power:
+
+1. **Pitch proximity**- listeners expect an ensuing pitch to be near the current pitch.
+2. **Post-skip reversal**- listeners expect a large interval to be followed by a change in pitch direction.
+
+There are major differences between the statistical properties of music and listeners expectations. We do systematic errors in expecting regression to the mean, descending step tendency and melodic arches. The question arises: "Why are listeners so imperfect in their musical expectations?".
 
 # Melodic expectation
 
