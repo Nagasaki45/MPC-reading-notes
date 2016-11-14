@@ -8,3 +8,5 @@ Build the weekly notes to nicely formatted `pdf`s using `make pdf` (inside each 
 - [Week 3 - timbre](https://github.com/Nagasaki45/MPC-reading-notes/blob/master/week3/notes.md)
 - [Week 4 - rhythm, metre, and tempo](https://github.com/Nagasaki45/MPC-reading-notes/blob/master/week4/notes.md)
 - [Week 5 - grouping](https://github.com/Nagasaki45/MPC-reading-notes/blob/master/week5/notes.md)
+- [Week 6 - attention and musical training](https://github.com/Nagasaki45/MPC-reading-notes/blob/master/week6/notes.md)
+- [Week 8 - expectations](https://github.com/Nagasaki45/MPC-reading-notes/blob/master/week8/notes.md)
