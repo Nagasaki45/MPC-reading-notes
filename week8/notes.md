@@ -25,7 +25,7 @@ In absolute surprise only the post-outcome reactions take place. There are no pr
 
 1. **Tone detection method**- participants report if they hear a tone. Greenberg & Larkin: low amplitude tone is played in specific pitch and time, masked with white noise. Participants expecting the tone were able to notice it more easily.
 1. **Production method**- e.g. participants sing / play / compose a continuation for an interrupted tune. Disadvantages: requires singing / playing / etc. and sometime improvisation ability. Advantages: study long-term expectations.
-1. **Probe-tone method**- a la Krumhansl. Disadvantages: tedious (partly solved with Shepard tones). Derivatives: **(a) Progressive prob-tone**- e.g. first 3 notes of melody played, 4th note probed and measured for goodness of fit. Than first 4 notes and a prob and so on. Even more tedious. **(b) Continuous prob-tone**- the probe stays and the context varies. Less tedious but less accurate.
+1. **Probe-tone method**- a la Krumhansl. Disadvantages: tedious (partly solved with Shepard tones). Derivatives: **(a) Progressive prob-tone**- e.g. first 3 notes of a melody are played, 4th note probed and measured for goodness of fit. Than first 4 notes and a prob and so on. Even more tedious. **(b) Continuous prob-tone**- the probe stays and the context varies. Less tedious but less accurate.
 1. **Betting paradigm**- similar to prob-tone but instead of probe and goodness of fit participants get poker chips and have to bet on the most probable continuation to maximize winnings. Disadvantages: tedious and learning effect.
 1. **Head turning paradigm**.
 1. **Bradycardic response method**- similar to head turning paradigm with measuring heart rate instead. Like head turning paradigm, "each trial gives comparatively little information, and building a picture of infant expectation may require hundreds of trials from dozens of participants".
@@ -38,7 +38,7 @@ Auditory expectations are learned, not innate. The main purpose of the chapter i
 
 "Both instincts and learning are the products of biological evolution. From a biological perspective, there is a clear criterion for when it is best for a behavior to be instinctive and when it is best for a behavior to be learned. The critical determining factor is the stability of the environment... An evolved capacity to learn is consequently referred to as **the Baldwin effect**".
 
-**The Hick–Hyman law**- there is a correlation between stimuli frequency and reaction time. AKA "processing of familiar stimuli is faster than processing of unfamiliar stimuli".
+**The Hick–Hyman law**- there is a correlation between stimuli frequency and reaction time: "processing of familiar stimuli is faster than processing of unfamiliar stimuli".
 
 See statistical learning references in week's 5 notes.
 
@@ -58,6 +58,25 @@ Recap chapter 5 and present the perceptual equivalents. Simplified **implication
 2. **Post-skip reversal**- listeners expect a large interval to be followed by a change in pitch direction.
 
 There are major differences between the statistical properties of music and listeners expectations. We do systematic errors in expecting regression to the mean, descending step tendency and melodic arches. The question arises: "Why are listeners so imperfect in their musical expectations?".
+
+### Chapter 9 - Tonality (restricted to the qualia of scale degrees)
+
+- Shared descriptions of scale degrees for musicians and non musicians.
+- Statistical learning can explain most of the qualias. First order probabilities explain "stability", 2nd order can explain "raise" and "fall" tenancy. There are several more examples.
+- Two similar profiles: statistical occurrences of scale degrees and the profiles of Krumhansl & Kesler (1982). Are aren't they exactly the same? For example, according to Krumhansl & Kesler the tonic is more stable than the 5th, but it less statistical probable in the repertoire. Possible answer: the Krumhansl & Kesler profiles are for closing phrases.
+- "Listeners are sensitive to the scale-degree distribution at points of interruption or closure". "Phrase endings exhibit scale-degree patterns that have a comparatively high probability of occurrence". "Cadences are both melodically and harmonically more predictable than other segments of the music". The first event after a cadence is usually unpredicted (after a series of more predicted moves).
+- First order Markov chain can explain both feeling of tendency and of closure. "The qualia of pleasure appears to be a direct consequence of learned high probability events". Therefore, tendency and closure are part of the tension response, whereas pleasure is part of the prediction response.
+- Few cross-cultural studies support the idea that tone qualia can be found in any musical culture, as it the result of statistical learning.
+
+### Chapter 10 - Expectations in time
+
+- Periodic events are the most easily anticipated. What are the required characteristics of a period to be expected? Most researchers explore beat tracking and found the optimum around 80-100 BPM.
+- "Listeners attention is most acute at strong metric positions".
+- Zero order influences:
+    - Relationship between expectancy to metre hierarchies.
+    - **Hypermetre**- when multiple bars are observed and hierarchies emerged accross the bars.
+- High order dependencies between events in time are presented in language, where there are strong dependencies between close characters but less when the characters are far apart. Similar phenomena, but more complex, exists in music (_but it relate to pitch, why is it here?_).
+
 
 # Melodic expectation
 
