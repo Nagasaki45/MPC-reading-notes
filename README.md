@@ -4,6 +4,7 @@ Build the weekly notes to nicely formatted `pdf`s using `make pdf` (inside each 
 
 ## Table of contents
 
+- [Week 1 - introduction](https://github.com/Nagasaki45/MPC-reading-notes/blob/master/week1/notes.md)
 - [Week 2 - pitch](https://github.com/Nagasaki45/MPC-reading-notes/blob/master/week2/notes.md)
 - [Week 3 - timbre](https://github.com/Nagasaki45/MPC-reading-notes/blob/master/week3/notes.md)
 - [Week 4 - rhythm, metre, and tempo](https://github.com/Nagasaki45/MPC-reading-notes/blob/master/week4/notes.md)
