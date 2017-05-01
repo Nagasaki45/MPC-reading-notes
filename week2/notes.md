@@ -84,6 +84,11 @@ Dependent variable: (a standard / probe melody followed by) one of the following
 
 Independent variable: the ability to identify the melody as same or different.
 
+### Results
+
+- Tonal melodies with different intervals but same contour and key (2) are difficult to discriminate.
+- Atonal melodies with different intervals but same contour (3) are easy to discriminate.
+
 ## Are scale degree qualia a consequence of statistical learning? (Huron, 2006)
 
 ### Experiment
