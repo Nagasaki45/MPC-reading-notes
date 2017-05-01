@@ -89,6 +89,29 @@ Independent variable: the ability to identify the melody as same or different.
 - Tonal melodies with different intervals but same contour and key (2) are difficult to discriminate.
 - Atonal melodies with different intervals but same contour (3) are easy to discriminate.
 
+## Infants' and adults' perception of scale structure (Trehub et al. 1999)
+
+### Experiment 1
+
+9-months infants.
+
+Dependent variable: nursery melody in major scale (unequal steps), artificial unequal steps scale, and equal steps scale.
+
+Independent variable: identification of mistunings.
+
+Results: mustunings were detected in both major and artificial unequal steps scales.
+
+### Experiment 2-4
+
+Infants and adults.
+
+Dependent variable: ascending and descending notes in major / artificial unequal steps scale / equal steps scale.
+
+Independent variable: identification of mistunings.
+
+Results: infants detect mistunings in both unequal steps scales. Adults detects mistunings only in the major scale.
+
+
 ## Are scale degree qualia a consequence of statistical learning? (Huron, 2006)
 
 ### Experiment
