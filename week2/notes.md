@@ -8,6 +8,44 @@
 
 What does the asterisk near some of the resources on the reading list mean?
 
+# Disorders
+
+## Intonation processing in congenital amusia: discrimination, identification and imitation (Liu et al. 2010)
+
+### Experiment
+
+16 amusics and 16 matched control participants.
+
+#### Statement-question discrimination for speech, gliding tones, and nonsense speech (3 tasks)
+
+Dependent variable: statement-statement / statement-question / question-statement / question-question pairs.
+
+Independent variable: correctness in same or different task.
+
+![(Liu et al., 2010)](media/liu2010_intonation_discrimination.png)
+
+#### Statement/question identification and imitation (2 tasks)
+
+Dependent variable: spoken statement/question stimuli.
+
+Independent variable: correctness in identifying (statement or question) and imitation.
+
+![(Liu et al., 2010)](media/liu2010_intonation_identification_and_imitation.png)
+
+#### Pitch change detection and direction discrimination (2 tasks)
+
+Dependent variable: 3 items, the first or the last is different.
+
+Independent variable: correctness in identifying the unique item.
+
+![(Liu et al., 2010)](media/liu2010_pitch.png)
+
+### Summary
+
+Amusics fail to discriminate interval direction, and therefore have difficulties in telling statement from question.
+Shows a common mechanism for music and speech processing.
+
+
 # Pitch perception
 
 ## Contour, interval, and pitch recognition in memory for melodies (Dowling and Fujitani, 1971)
