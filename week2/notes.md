@@ -162,7 +162,7 @@ Independent variable: Answer which tone is it (chroma) by pressing a note on a k
 
 Similar to experiment 1. Instead of chroma, participants pressed the *exact* note on a keyboard (in the octave they choose) and an upper or lower key if they think the note is above or below the exact note.
 
-### Results
+### Summary
 
 ![(Miyazaki, 1988)](media/miyazaki1988.png)
 
