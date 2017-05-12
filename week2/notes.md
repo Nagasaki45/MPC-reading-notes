@@ -198,3 +198,24 @@ Hight correlation between the identical twin responses, compared to the dizygoti
 Experiment done with AP participants suggests that it is (at least partly) learned ability, by showing high correlation between response time and occurrences of pitch classes in western culture corpora.
 
 **No experiment**. The authors use that the results from another experiment (Miyazaki, 1989) correlates with data.
+
+## Good pitch memory is widespread (Schellenberg & Trehub, 2003)
+
+### Experiment 1
+
+Stimuli: 5s excerpts from popular TV shows.
+
+Dependent variables:
+
+- Incorrect stimuli shifted by 1 or 2 semitones.
+- Direction of the shift.
+
+Independent variable: Percentage correct.
+
+Performance above chance.
+
+### Experiment 2
+
+Similar to experiment, but with unfamiliar excerpts to rule out the possibility of pitch shifting artifacts changing the answers. Chance results.
+
+**Brilliant idea, but it could be done much simpler. The procedure and the presentation are very messy.**
