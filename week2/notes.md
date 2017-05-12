@@ -147,6 +147,28 @@ A proposed algorithm is based on profiles matching and behaves better than other
 
 # Absolute pitch
 
+## Musical pitch identification by absolute pitch possessors (Miyazaki, 1988)
+
+### Experiment 1
+
+Dependent variables:
+
+- Tone pitch (60 tones per octave in 20 cent distances).
+- Age of starting musical training.
+
+Independent variable: Answer which tone is it (chroma) by pressing a note on a keyboard.
+
+### Experiment 2
+
+Similar to experiment 1. Instead of chroma, participants pressed the *exact* note on a keyboard (in the octave they choose) and an upper or lower key if they think the note is above or below the exact note.
+
+### Results
+
+![(Miyazaki, 1988)](media/miyazaki1988.png)
+
+- AP possessors response more quickly and accurately to "musically important tones" in C-major.
+- Correlates with early musical training.
+
 ## Absolute memory for musical pitch: evidence from the production of learned melodies (Levitin, 1994)
 
 High percentage of people (much higher than the percentage of people with AP) can sing a familiar melodies in tune, suggesting that "some degree of absolute memory representation exists in the general population". The author claim that AP provides the ability to _lable_ pitches, while the ability to memorize and recall pitches (aka _pitch memory_) is more widespread.
