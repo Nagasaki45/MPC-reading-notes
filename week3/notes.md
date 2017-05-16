@@ -133,14 +133,14 @@ Later, the authors found correlations between axes and the spectral properties o
 
 **Name that tune: Identifying popular recordings from brief excerpts**
 
-Identifying popular songs by 100ms experts can be done when: high frequency content is preserved and no dynamic manipulations done. Thereby, these are the most important parts of timbre perception.
+Identifying popular songs by 100ms excerpts can be done when: high frequency content is preserved and no dynamic manipulations done. Thereby, these are the most important parts of timbre perception.
 
 ### Experiment
 
 Actually, it's 5 different experiments, one for each type of stimuli.
 
-**Independent variable:** 5 short audio experts from popular songs.
-**Dependent variable:** ability to match the expert to the song.
+**Independent variable:** 5 short audio excerpts from popular songs.
+**Dependent variable:** ability to match the excerpt to the song.
 
 ![Schellenberg, 1999](media/schellenberg1999.png)
 
