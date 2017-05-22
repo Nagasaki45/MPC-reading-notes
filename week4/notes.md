@@ -72,9 +72,17 @@ Everything is nice in theory, but it is not stated where it was confirmed cognit
 
 Proposes a metre parsing algorithm based on this theory. No validation for the algorithm against real music.
 
+### Note weight and syncopation
+
+*The weight of a given note or rest is the level of the highest metrical unit that it initiates* (starting from 0 for the highest level and counting down).
+
+*If R is a rest or a tied note, and N is the next sounded note before R, and the weight of N is no greater than the weight of R, then the pair (N, R) is said to constitute a syncopation. The "strength" of the syncopation is the wight of R minus the weight of N.*
+
+![Longuet-Higgins & Lee 1984: Metre ambiguity](media/longuet-higgins1984_weights.png)
+
 ### Criticism
 
-Same as Lerdahl & Jackendoff 1984.
+Same as Lerdahl & Jackendoff 1984. However, the syncopation / note weight theory is measurable, not like the MWFR and MPR of GTTM.
 
 ## Povel & Essens 1985
 
