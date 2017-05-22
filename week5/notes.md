@@ -72,7 +72,7 @@ Other researchers start from sequences of pure tones. Deutsch starts from comple
 
 ## Bergman & Campbell 1971
 
-**Pimary auditory stream segregation and perception of order in rapid sequences of tones**
+**Primary auditory stream segregation and perception of order in rapid sequences of tones**
 
 ### Experiment 1
 
@@ -326,4 +326,5 @@ Same as experiment 1. Now, instead of words vs. non-words, it's words vs. part-w
 
 ### Criticism
 
-Why S2 is missing from experiment 2?
+- Why S2 is missing from experiment 2?
+- Control group didn't listen to anything before testing phase, and got different instructions compared to learning group.
