@@ -198,3 +198,21 @@ Confirms the results of experiment 1 and add that early accent on the ending not
 ## Jones et al. 2002 _see week 4 notes_
 
 # Expectation and emotion
+
+## Egermann et al. 2013
+
+**Probabilistic models of expectation violation predict psychophysiological emotional responses to live concert music**
+
+### Hypotheses
+
+- Information-theoretic analysis could predict whether participants perceived particular musical segments as expected or unexpected.
+- High information content (IC) peaks could predict subjective reported valance / arousal and physiological measurements (skin conductance, heart rate, perspiration rate, facial EMG).
+- Self reported uncertainty could predict the same.
+
+### Experiment
+
+50 participants listening to 6 pieces in a concert. Results show:
+
+- Extreme IC values (high / low) predict reported expectancy.
+- Extremely high IC predict arousal and valance. Partially effect on physiological measures.
+- High levels of unexpectedness had similar effect as high IC.
