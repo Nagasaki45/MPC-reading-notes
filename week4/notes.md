@@ -40,6 +40,27 @@ Analysis of piano performances, comparing the score's "perfect" IOIs to those of
     - Structural: discrete categorization of intervals.
     - Expressive: continuously varied transformations of IOIs over time.
 
+## Clarke 1987
+
+**Categorical rhythm perception: an ecological perspective**
+
+### Experiment 1
+
+**Independent variables:**
+
+- Metrical context is either 2/4 or 3/8.
+- 2 probe tones range between 1:1 division of the bit to 1:2 (in 9 steps).
+
+**Dependent variable:** % correct in identifying same length vs. long-short.
+
+### Experiment 2
+
+Same independent variables. **Dependent variable** % correct in same/different task when listening to 2 trials differing by 2 steps on the 1:1 to 1:2 division scale.
+
+### Summary
+
+Results suggest that we "resolve" the rhythmic pattern as a 3 dimensional solution between metrical context, beat subdivision, and expressive transformation.
+
 # Metre
 
 ## Lerdahl & Jackendoff 1984
