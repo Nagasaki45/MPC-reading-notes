@@ -156,14 +156,15 @@ _The methods look very strange for me. Check again if everything is right._
 
 3 experiments, based on the same idea: infants stare to the direction of novel stimuli more time compared to familiar stimuli. The differences between the experiments were:
 
-1. Familiar melody compared to novel melody. Same tempo, same timbre.
-1. Familiar melody compared to same melody but with different tempo (same timbre).
-1. Familiar melody compared to same melody but with different timbre (same tempo).
+In all experiment the familiar melody was compared to the novel melody. The differences are:
 
-**Independent variable**: familiar or novel stimuli.
+1. Both in the original tempo and timbre.
+1. Both melodies either faster in 25% (for half of the infants) or 25% slower.
+1. Both melodies in different timbre.
+
 **Dependent variable:** the time the infant look to the direction of the stimuli.
 
-In experiment 1 the novel stimuli attracted the infants, whereas in experiment 2 and 3 it didn't, suggesting that the infants percept timbre and tempo as part of the melody.
+In experiment 1 the novel stimuli attracted the infants, whereas in experiment 2 and 3 there is no difference between the novel and the manipulated melody, suggesting that the infants couldn't distinguish between melody, tempo, and timbre.
 
 ![Trainor et al., 2004](media/trainor2004.png)
 
@@ -234,8 +235,12 @@ _There is a good intro to MDS use in timbre perception studies in the introducti
 
 **An Interlanguage Study of Musical Timbre Semantic Dimensions and Their Acoustic Correlates**
 
-2 groups: Greek speaking & English speaking participants. 30 adjectives (in English and translations to Greek). Participants list adjectives for each heard instrument tone.
+2 groups: Greek speaking & English speaking participants. 30 adjectives (in English and translations to Greek). Participants list adjectives for each heard instrument tone (with different pitches).
 
 ### Conclusions
 
-Timbre perception is very similar across different cultures.
+- Timbre perception is very similar across different cultures.
+- Correlations between physical characteristics and semantic dimensions:
+  - Texture with energy distribution of harmonics.
+  - Thickness and brilliance with inharmonicity and spectral centroid variation.
+  - F0 with mass or luminance depending on the linguistic group.
