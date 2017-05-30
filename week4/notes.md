@@ -252,7 +252,7 @@ Our ability to synchronize to beat (BPS = beat perception and synchronization) i
 
 **Dependent variable:** synchronization to beat.
 
-## Hannon & Trehub 2005
+## Hannon & Trehub 2005a
 
 **Metrical categories in infancy and adulthood**
 
@@ -274,6 +274,12 @@ Same as experiment 1, with few procedural differences. Mainly, infants divided i
 As opposed to the adults,the infants were able to distinguish both simple and complex metres.
 
 ![Hannon & Trehub 2005](media/hannon2005a.png)
+
+## Hannon & Trehub 2005b
+
+Similar to previous paper.
+Now, 12 months infants, that originally behave like adults (failed to discriminate violations in complex metres), can discriminate violations in complex metre after 2 weeks familiarization.
+The same wasn't true for adults.
 
 ## Hannon et al. 2005
 
